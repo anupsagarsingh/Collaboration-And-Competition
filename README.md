@@ -25,7 +25,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Getting Started
 
-1. 
+1. Please follow the instructions in the [DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning#dependencies) to set up your Python environment. These instructions can be found in README.md at the root of the repository. By following these instructions, you will install PyTorch and a few more Python packages required to complete the project.
 
 2. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
