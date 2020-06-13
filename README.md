@@ -39,7 +39,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
     
 3. Place the file in the DRLND GitHub repository, in the `Collaboration-And-Competition/` folder, and unzip (or decompress) the file. 
     
-4. To train the model, install the following python packages/dependencies (command: pip install *):
+4. To train the model, install the following python packages/dependencies:
 
     * unityagents
     * pytorch
